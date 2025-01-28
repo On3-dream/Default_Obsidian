@@ -1,0 +1,17 @@
+0. PROJECT/*
+!0. PROJECT/
+
+1. RESOURCE/Pics/*
+1. RESOURCE/src/*
+!1. RESOURCE/
+
+!2. ACHIEVED/
+
+3. Journal/*
+!3. Journal/
+
+Excalidraw/*
+Fleeting Notes/*
+Literature Notes/*
+Permanent Notes/*
+.trash

@@ -1,0 +1,298 @@
+{
+  "main": {
+    "id": "a0ecd614d3856c07",
+    "type": "split",
+    "children": [
+      {
+        "id": "4602beda70572443",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "613ef9a93f9d2623",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. RESOURCE/Template/Project Schedule.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Schedule"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "960a035b8aecbe0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa93965797f85e41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9939d6ec5d7bebcd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5711f7233bb311c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2eeb2dea97b8eba5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e3cbd820dcfd6aa5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Literature Notes/Second Brain.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Second Brain"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.51103591918945
+  },
+  "right": {
+    "id": "46c66aba9171d3fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ecab296a924fd4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "876ac4079634a74a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. RESOURCE/Template/Index template.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index template"
+            }
+          },
+          {
+            "id": "730b07dab3822ba1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Literature Notes/Second Brain.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Second Brain"
+            }
+          },
+          {
+            "id": "a84788cc50e5eccd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0. MAP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 0. MAP"
+            }
+          },
+          {
+            "id": "63c8272d34024861",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "929a8502cdcf534a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "58454402577bb863",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "c29e243320841199",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c0686c46c95cdb4",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "1. RESOURCE/Template/Project Schedule.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518229166666667,
+                  "repelStrength": 9.21875,
+                  "linkStrength": 0.2421875,
+                  "linkDistance": 250,
+                  "scale": 0.6666666666666672,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Project Schedule"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 351.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "9939d6ec5d7bebcd",
+  "lastOpenFiles": [
+    "1. RESOURCE/src/GitFlow.md",
+    "0. PROJECT/BLDC_Motor/Characteristic.md",
+    "1. RESOURCE/Template/Project Schedule.md",
+    "3. Journal/2025-01.md",
+    "3. Journal/2025-01-28.md",
+    "1. RESOURCE/Template/Monthly Note.md",
+    "1. RESOURCE/Template/Weekly Note.md",
+    "1. RESOURCE/Template/Daily Note.md",
+    "1. RESOURCE/index/Git.md",
+    "3. Journal/2025-W05.md",
+    "3. Journal/2025-01-26.md",
+    "1. RESOURCE/index/Lifestyle.md",
+    "0. MAP.md",
+    "Fleeting Notes/Untitled.md",
+    "3. Journal/2025-01-24.md",
+    "3. Journal/Drawing 2025-01-24 09.56.54.excalidraw.md",
+    "1. RESOURCE/index/Self_Study.md",
+    "1. RESOURCE/index/School.md",
+    "1. RESOURCE/index/Lecturer.md",
+    "1. RESOURCE/index/Linux_Terminal.md",
+    "1. RESOURCE/index/Python.md",
+    "1. RESOURCE/Pics/monkey.md",
+    "1. RESOURCE/Pics/hi.svg",
+    "1. RESOURCE/Pics/Hi.svg",
+    "1. RESOURCE/Pics/Pasted image 20250122143748.png",
+    "1. RESOURCE/Pics/CODE-Method.png",
+    "1. RESOURCE/Pics/cropped_ap_836720500193-d90a20e2b8d735f74d436f36054eb3dc2bd96696.md",
+    "1. RESOURCE/Pics/Pasted image 20250122143710.png",
+    "1. RESOURCE/index/GitFlow.md",
+    "Fleeting Notes/LSP Pyright.md",
+    "Fleeting Notes/Fixing GBD on Linux Mint.md",
+    "Excalidraw/Scripts/Downloaded/Rename Image.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed vertical distance.svg",
+    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg",
+    "Untitled.canvas",
+    "3. Journal",
+    "0. PROJECT/BLDC_Motor",
+    "1. RESOURCE/src",
+    "1. RESOURCE/index",
+    "2. ACHIEVED",
+    "1. RESOURCE",
+    "0. PROJECT",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Untitled 1.canvas"
+  ]
+}

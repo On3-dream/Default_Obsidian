@@ -1,0 +1,7 @@
+{
+  "immediateReplace": true,
+  "suggester": false,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": []
+}
